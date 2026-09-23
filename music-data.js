@@ -9,9 +9,9 @@ const musicProjects = [
     id: "oneironautes-ep",
     title: "ONEIRONAUTES EP - VALRIK",
     images: [
-      "images/music/oneironautes01.jpg",
-      "images/music/oneironautes02.jpg",
-      "images/music/oneironautes03.jpg",
+      "images/music/oneironautes01.webp",
+      "images/music/oneironautes02.webp",
+      "images/music/oneironautes03.webp",
     ],
   },
   {
@@ -19,12 +19,12 @@ const musicProjects = [
     title: "ASENSE PODCAST SERIES",
     link: "https://soundcloud.com/a-sense-sthlm/sets/a-sense-mix-series",
     images: [
-      "images/music/asensepod01.jpg",
-      "images/music/asensepod02.jpg",
-      "images/music/asensepod03.jpg",
-      "images/music/asensepod04.jpg",
-      "images/music/asensepod05.jpg",
-      "images/music/asensepod06.jpg",
+      "images/music/asensepod01.webp",
+      "images/music/asensepod02.webp",
+      "images/music/asensepod03.webp",
+      "images/music/asensepod04.webp",
+      "images/music/asensepod05.webp",
+      "images/music/asensepod06.webp",
     ],
   },
 ];

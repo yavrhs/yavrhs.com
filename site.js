@@ -55,6 +55,7 @@ function initImageLightbox() {
   function open(src, alt) {
     fullImg.src = src;
     fullImg.alt = alt || "";
+    fullImg.loading = "lazy";
     overlay.classList.add("open");
     document.body.classList.add("mobile-nav-locked");
   }
@@ -146,6 +147,7 @@ function buildSlider(images) {
     const img = document.createElement("img");
     img.src = src;
     img.alt = "";
+    img.loading = "lazy";
     track.appendChild(img);
   });
   wrap.appendChild(track);
@@ -213,6 +215,7 @@ function renderOverviewList(containerEl, projects, options) {
       img2.className = "thumb-hover";
       img2.src = p.coverHover;
       img2.alt = "";
+      img2.loading = "lazy";
       thumb.appendChild(img2);
     }
 

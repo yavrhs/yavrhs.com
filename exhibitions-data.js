@@ -12,11 +12,8 @@ const exhibitionsProjects = [
     title: "HOMOLOGIES",
     cover: "images/exhibitions/homologies01.jpg",
     images: [
-      "images/exhibitions/homoteaser01.jpg",
-      "images/exhibitions/homoteaser02.jpg",
       "images/exhibitions/homologies02.jpg",
-      "images/exhibitions/homologies03.jpg",
-      "images/exhibitions/homologies04.jpg",
+      
     ],
     description:
       "COMING SOON\n\n\nDEBUT EXHIBITION\nOCT10. A.SENSE STHLM. KUMMELHOLMEN.",
