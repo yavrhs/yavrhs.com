@@ -21,4 +21,18 @@ const printProjects = [
       "images/print/asense_zine08.webp",
     ],
   },
+  {
+    id: "serifos-zine",
+    title: "SERIFOS\n2023",
+    images: [
+      "images/print/serifos01.webp",
+      "images/print/serifos02.webp",
+      "images/print/serifos03.webp",
+      "images/print/serifos04.webp",
+      "images/print/serifos05.webp",
+      "images/print/serifos06.webp",
+      "images/print/serifos07.webp",
+      "images/print/serifos08.webp",
+    ],
+  },
 ];
