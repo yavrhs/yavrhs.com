@@ -8,6 +8,20 @@
 // -----------------------------------------------------------------------
 const printProjects = [
   {
+    id: "kormoranoi-kai-avlefarida",
+    title: "KORMORANOI & AVLEFARIDA\nPOETRY COLLECTION\nBY SOTIRIS SIAMANDOURAS\nCO-DESIGNER MARIA KARYDI",
+    images: [
+      "images/print/kormoranoi01.webp",
+      "images/print/kormoranoi02.webp",
+      "images/print/kormoranoi03.webp",
+      "images/print/kormoranoi04.webp",
+      "images/print/kormoranoi05.webp",
+      "images/print/kormoranoi06.webp",
+      "images/print/kormoranoi07.webp",
+      "images/print/kormoranoi08.webp",
+    ],
+  },
+  {
     id: "a-sense-zine",
     title: "A.SENSE\nSTOCKHOLM\n2025_2026\nZINE",
     images: [
