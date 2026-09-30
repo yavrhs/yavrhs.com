@@ -628,17 +628,7 @@ body.mobile-nav-locked {
 
   /* arrows become a white overlay on the image itself, tap or swipe */
   .row-arrows {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    transform: none;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 12px;
-    pointer-events: none;
+    display: none;
   }
 
   .row-arrows button {
