@@ -84,6 +84,8 @@ const brandingProjects = [
       "images/branding/kobo05.webp",
       "images/branding/kobo06.webp",
       "images/branding/kobo07.webp",
+      "images/branding/kobo08.webp",
+      "images/branding/kobo09.webp",
     ],
     description: "Kobo is a specialty coffee brand in Athens. Inspired by the Japanese word meaning workshop, it is a space for creation, where coffee is treated as a crafted experience. Drawing from Japanese minimalism and the ritual of coffee-making, the identity combines a custom wordmark with a distinctive dual-purpose symbol, merging the forms of a coffee cup and V60 filter into one graphic element. A restrained palette of black, grey, and matcha green establishes a refined visual language across the brand’s physical and digital touchpoints, from signage and menus to takeaway cups, creating a cohesive and recognizable visual system.",
   },
