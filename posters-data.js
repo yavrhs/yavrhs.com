@@ -4,6 +4,7 @@
 // add its filename below, in the order you want it to appear.
 // -----------------------------------------------------------------------
 const posters = [
+  "images/posters/poster20.webp",
   "images/posters/poster19.webp",
   "images/posters/poster18.webp",
   "images/posters/poster17.webp",
