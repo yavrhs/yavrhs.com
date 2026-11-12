@@ -14,6 +14,43 @@
 // -----------------------------------------------------------------------
 const brandingProjects = [
   {
+    id: "erma-hotel",
+    title: "ERMA HOTEL",
+    cover: "images/branding/erma_def.webp",
+    coverHover: "images/branding/erma_hov.webp",
+    images: [
+      "images/branding/erma01.webp",
+      "images/branding/erma02.webp",
+      "images/branding/erma03.webp",
+      "images/branding/erma04.webp",
+      "images/branding/erma05.webp",
+      "images/branding/erma06.webp",
+      "images/branding/erma07.webp",
+      "images/branding/erma08.webp",
+      "images/branding/erma09.webp",
+    ],
+    description:
+      "Developed for a design assessment, ERMA is a conceptual adults-only boutique hotel in Kardamyli, Mani, guided by the tagline \"Silence set in stone.\" Named after the Greek word for ballast (έρμα), referencing both maritime stability and Maniot stone foundations, the brand serves as an anchor for quiet luxury and personal stillness. The minimalist logo abstracts historic architectural blueprints into a structural \"E,\" paired with a warm palette of burgundy, soft sky blue, and pale yellow to balance local stonework with welcoming comfort. The identity extends consistently across the logo, room key cards, and web homepage.",
+  },
+  {
+    id: "sid-skin",
+    title: "SID SKIN",
+    cover: "images/branding/sid_def.webp",
+    coverHover: "images/branding/sid_hov.webp",
+    images: [
+      "images/branding/sid01.webp",
+      "images/branding/sid02.webp",
+      "images/branding/sid03.webp",
+      "images/branding/sid04.webp",
+      "images/branding/sid05.webp",
+      "images/branding/sid06.webp",
+      "images/branding/sid07.webp",
+      "images/branding/sid08.webp",
+    ],
+    description:
+      "Developed for a design assessment, SID Skin is a conceptual Greek skincare brand inspired by Sideritis (Greek Mountain Tea), while phonetically echoing the word \"seed.\" Guided by a \"from seed to skin\" philosophy, the visual identity centers on an interwoven double “S” emblem that dual-reads as a dormant seed and a blooming flower, paralleling how a seed takes root and blooms in Greek earth, much like skin nourished by a mindful and slow ritual. A crisp blue and white marble palette paired with matte packaging evokes cooling hydration, extending consistently across the logo, product packaging, and social media assets.",
+  },
+  {
     id: "lush-studio",
     title: "LUSH STUDIO ATHENS",
     cover: "images/branding/lush_def.webp",
